@@ -79,33 +79,4 @@ if __name__ == "__main__":
     # neighbor: 8 -> 1.0
     # neighbor: 9 -> 0.9736842105263158
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+# Is the accuracy of model measured ??
